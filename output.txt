@@ -1,0 +1,10 @@
+correlation's Location: 0.11465778432645206
+correlation's Province: 0.06888725613242176
+correlation's Occupation: 0.07520353121769036
+correlation's Employment Status: 0.03547282456102826
+correlation's Gender: 0.043154649058541626
+correlation's Day vs Night: 0.03250819056100983
+correlation's Activity: 0.13865277568542442
+correlation's Incident Type: 0.3837107546943894
+correlation's Classification: 0.15663958432327943
+correlation's Contributory Factors: 0.08018412669520493
