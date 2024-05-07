@@ -7,7 +7,7 @@ This repository contains a Python script for performing categorical correlation 
 
 ## Usage
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/categorical-correlation-analysis.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/alishams99/CategoricalCorrelationAnalysis.git`.
 2. Ensure you have Python installed on your machine.
 3. Install the required dependencies by running `pip install -r requirements.txt`.
 4. Adjust the `excel_file_path` variable in the script to point to your Excel file if necessary.
