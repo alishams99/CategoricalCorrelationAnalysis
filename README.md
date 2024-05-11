@@ -5,6 +5,7 @@ This repository contains a Python script for performing categorical correlation 
 
 - **categorical_correlation_analysis.py**: This script reads an Excel file (`balance_data.xlsx`) containing categorical and nature of injury data. It calculates the Cramer's V correlation coefficient between each categorical column and the 'Nature of injury' column. The results are printed to the console.
 
+
 ## Usage
 
 1. Clone this repository to your local machine using `git clone https://github.com/alishams99/CategoricalCorrelationAnalysis.git`.
