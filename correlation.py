@@ -18,3 +18,4 @@ for i in categorical_columns :
     cramers_v = np.sqrt(chi2 / (n * min_dim))
 
     print(f"correlation's {i}: {cramers_v}")
+    
